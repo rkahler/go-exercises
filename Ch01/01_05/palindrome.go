@@ -25,4 +25,5 @@ func main() {
 	}
 	fmt.Println(buffer.String())
 	fmt.Println("All Done")
+	fmt.Println("Another line")
 }
